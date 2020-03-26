@@ -3,3 +3,10 @@ body {
   background-repeat: round;
 }
 
+#pic{
+float: right;
+max-height: 20px;
+transform: rotate(10deg);
+}
+
+
